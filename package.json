@@ -1,0 +1,20 @@
+{
+  "name": "js_algorithm",
+  "version": "1.0.0",
+  "description": "- 22.12.26 / Linear& Binary Search",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyWChoi/JS_Algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyWChoi/JS_Algorithm/issues"
+  },
+  "homepage": "https://github.com/HyWChoi/JS_Algorithm#readme"
+}
